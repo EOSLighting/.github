@@ -1,12 +1,6 @@
-## Hi there 👋
+# EOS - The Open Source Lighting Engine & Controller
+Our goal is it to create a open source lighting engine that has simmilar capabilities of the enterprise models. We want to make the access to a solid and production ready Lighting Engine as easy as possible.
 
-<!--
+# Why EOS?
+Eos is the goddess of the dawn in Greek mythology. She is the daughter of the Titans Hyperion and Theia, and the sister of the Sun (Helios) and the Moon (Selene). Every morning, Eos rose from her home at the edge of the river Oceanus to bring forth the light of day.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
